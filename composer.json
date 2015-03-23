@@ -1,6 +1,6 @@
 {
     "name": "hg/package2",
-	"version": "1.0.0",
+
     "description": "only test",
     "keywords": ["test-cms"],
     "license": "AGPL-3.0",
@@ -19,6 +19,12 @@
         "psr-4": {
             "Hg\\Test-cms\\": "src/"
         }
-    }
+    },"extra": {
+        "branch-alias": {
+            "dev-master": "3.0-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 
 }
