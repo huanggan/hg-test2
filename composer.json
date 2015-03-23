@@ -3,7 +3,7 @@
 
     "description": "only test",
     "keywords": ["test-cms"],
-    "license": "AGPL-3.0",
+
     "authors": [
         {
             "name": "huangggan",
@@ -17,7 +17,7 @@
         }
     },"extra": {
         "branch-alias": {
-            "dev-master": "3.0-dev"
+            "dev-master": "1.0-dev"
         }
     },
     "minimum-stability": "dev",
