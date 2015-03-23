@@ -1,14 +1,9 @@
 <?php
-
-namespace Hg\Test-cms;
-
+namespace Hg\Hgtest;
 class Test{
-	public function __construct(){
-	echo "this is package2's class";
-	}
-
+    public function __toString() {
+        echo 'this is '.__CLASS__;
+    }
+    
 }
-
-
-
-
+?>
