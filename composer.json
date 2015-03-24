@@ -10,12 +10,6 @@
             "email": "466927746@qq.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/huanggan/hg-test2"
-        }
-    ],
    
 	    "autoload": {
         "psr-4": {
